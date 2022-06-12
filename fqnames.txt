@@ -1,0 +1,3 @@
+vendor.qti.hardware.servicetracker@1.2::IServicetracker/default
+vendor.qti.ims.factory@1.0::IImsFactory/default
+vendor.qti.ims.factory@1.1::IImsFactory/default
